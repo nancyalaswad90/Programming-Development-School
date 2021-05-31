@@ -15,7 +15,7 @@ Programming is a critical skill in today’s economy, and there is a shortage of
 
 
 
-> My Second Bachelor in Sciences Information Technology and Computing from  Arab Open university 
+> **My Second Bachelor in Sciences Information Technology and Computing from Arab Open university** 
 
 
 
