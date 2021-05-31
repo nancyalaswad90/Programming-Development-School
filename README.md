@@ -9,6 +9,7 @@ Programming is a critical skill in today’s economy, and there is a shortage of
 
 
 
-## Arab Open university 
+## 		Academic Study  
 
+[Bachelor in Sciences Information Technology and Computing] from  Arab Open university 
 
