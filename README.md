@@ -35,4 +35,4 @@
 
 - [ Data management and analysis (351)](https://github.com/nancyalaswad90/University-Study-351Data-management-and-analysis)
 
-- [Communication and information technologies  (( T215A )) ](https://github.com/nancyalaswad90/Communication-and-information-technologies-/blob/main/README.md)
+- [Communication and information technologies  (( T215A + T215B)) ](https://github.com/nancyalaswad90/Communication-and-information-technologies-/blob/main/README.md)
