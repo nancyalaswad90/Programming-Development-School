@@ -2,7 +2,7 @@
 .
 
 
-# [School of Programming & Development](https://www.udacity.com/school-of-programming)
+# [Programming & Development School ](https://www.udacity.com/school-of-programming)
 
 
 
